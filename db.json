@@ -1,0 +1,123 @@
+{
+  "products" : [{
+  "id": 1,
+  "judul": "Cape Capensis - Fillet",
+  "harga": "$6.25"
+}, {
+  "id": 2,
+  "judul": "Roe - Lump Fish, Black",
+  "harga": "$4.78"
+}, {
+  "id": 3,
+  "judul": "Pie Shell - 5",
+  "harga": "$3.39"
+}, {
+  "id": 4,
+  "judul": "Veal - Brisket, Provimi,bnls",
+  "harga": "$7.84"
+}, {
+  "id": 5,
+  "judul": "Muffin Mix - Blueberry",
+  "harga": "$2.01"
+}, {
+  "id": 6,
+  "judul": "Beans - Kidney White",
+  "harga": "$7.20"
+}, {
+  "id": 7,
+  "judul": "Veal - Slab Bacon",
+  "harga": "$6.11"
+}, {
+  "id": 8,
+  "judul": "Pasta - Fusili, Dry",
+  "harga": "$1.14"
+}, {
+  "id": 9,
+  "judul": "Bread - Multigrain Oval",
+  "harga": "$5.59"
+}, {
+  "id": 10,
+  "judul": "Pepper - White, Whole",
+  "harga": "$8.99"
+}, {
+  "id": 11,
+  "judul": "Lettuce - Boston Bib - Organic",
+  "harga": "$5.34"
+}, {
+  "id": 12,
+  "judul": "Ecolab - Lime - A - Way 4/4 L",
+  "harga": "$2.80"
+}, {
+  "id": 13,
+  "judul": "Rice - Basmati",
+  "harga": "$2.32"
+}, {
+  "id": 14,
+  "judul": "Dry Ice",
+  "harga": "$5.07"
+}, {
+  "id": 15,
+  "judul": "Sauce - Balsamic Viniagrette",
+  "harga": "$6.97"
+}, {
+  "id": 16,
+  "judul": "Muffin - Mix - Mango Sour Cherry",
+  "harga": "$9.94"
+}, {
+  "id": 17,
+  "judul": "Veal - Brisket, Provimi, Bone - In",
+  "harga": "$5.95"
+}, {
+  "id": 18,
+  "judul": "Cake - Mini Potato Pancake",
+  "harga": "$9.30"
+}, {
+  "id": 19,
+  "judul": "Pails With Lids",
+  "harga": "$5.00"
+}, {
+  "id": 20,
+  "judul": "Bread Sour Rolls",
+  "harga": "$0.42"
+}, {
+  "id": 21,
+  "judul": "Cheese Cheddar Processed",
+  "harga": "$1.76"
+}, {
+  "id": 22,
+  "judul": "Wine - Rosso Del Veronese Igt",
+  "harga": "$9.99"
+}, {
+  "id": 23,
+  "judul": "Pate Pans Yellow",
+  "harga": "$5.62"
+}, {
+  "id": 24,
+  "judul": "Flour - Pastry",
+  "harga": "$9.41"
+}, {
+  "id": 25,
+  "judul": "Red Pepper Paste",
+  "harga": "$1.71"
+}, {
+  "id": 26,
+  "judul": "Beans - Kidney, Canned",
+  "harga": "$6.07"
+}, {
+  "id": 27,
+  "judul": "Veal - Nuckle",
+  "harga": "$7.77"
+}, {
+  "id": 28,
+  "judul": "Alize Red Passion",
+  "harga": "$5.38"
+}, {
+  "id": 29,
+  "judul": "Gooseberry",
+  "harga": "$3.80"
+}, {
+  "id": 30,
+  "judul": "Mangoes",
+  "harga": "$5.04"
+}]
+}
